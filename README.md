@@ -1,4 +1,12 @@
-# The Threat Solver
+
+ <div align="center">
+  <a href="https://i.postimg.cc/Xv5mWNyz/perplexity-icon-staticanalisys.jpg" target="_blank">
+    <img alt="The Threat Solver" src="https://i.postimg.cc/Xv5mWNyz/perplexity-icon-staticanalisys.jpg" height="20" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/The Threat Solver-505050?style=flat&logo=appveyor&logoColor=white" alt="The Threat Solver" />
+  </a>
+</div>
+
+
 
 ## Project Description
 
