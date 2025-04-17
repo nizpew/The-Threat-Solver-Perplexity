@@ -91,8 +91,13 @@ The Threat Solver was inspired by the rapid evolution of AI-powered code analysi
 ---
 
 ## Try It Out
-
-- GitHub Repository: [Add your GitHub repo link here]
+  
+  bash
+  
+    #install git if not installed
+    git clone https://github.com/nizpew/The-Threat-Solver-Perplexity.git
+    python The-Threat-Solver-Perplexity/main.py
+    
 - Demo Video: [Add your YouTube or Vimeo demo link here]
 
 ---
