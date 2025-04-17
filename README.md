@@ -8,7 +8,7 @@
 
 
 
-## Project Description
+# The Threat Solver
 
 The Threat Solver is a powerful desktop application designed to help developers and security analysts quickly understand and evaluate codebases using advanced AI technology. By integrating the Perplexity AI API, the app provides two key features: detailed code explanations and malicious code detection.
 
@@ -17,6 +17,9 @@ Users can easily import entire folders of source code, choose the type of analys
 This project bridges the gap between cutting-edge AI capabilities and practical software development needs, enabling faster code reviews, improved security auditing, and enhanced code comprehension. It is ideal for developers working with unfamiliar code, security professionals scanning for vulnerabilities, or anyone seeking to leverage AI to boost their productivity and code quality.
 
 With robust error handling, secure API key management, and thoughtful UI design, The Threat Solver demonstrates how AI can be seamlessly integrated into everyday development workflows to make coding safer and more efficient.
+
+![perplexity-icon-staticanalisys-splash](https://github.com/user-attachments/assets/300de2ed-eb37-4bf0-97de-a72045cbc53f)
+
 
 ---
 
@@ -108,15 +111,9 @@ The Threat Solver was inspired by the rapid evolution of AI-powered code analysi
     
 - Demo Video: [Add your YouTube or Vimeo demo link here]
 
----
-
-## Project Media
-
-![App Screenshot 1](path/to/screenshot1.png)  
-![App Screenshot 2](path/to/screenshot2.png)
 
 ---
 
 ## Video Demo Link
 
-[Add your YouTube, Vimeo, or other video demo link here]
+https://youtu.be/oheZS9V2pc8?si=xyLrsMyJuVxoDWcB
